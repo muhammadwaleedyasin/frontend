@@ -1,0 +1,4818 @@
+[
+  {
+    "value": "AW",
+    "label": "Aruba",
+    "flag": "🇦🇼",
+    "latlng": [
+      12.5,
+      -69.96666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AF",
+    "label": "Afghanistan",
+    "flag": "🇦🇫",
+    "latlng": [
+      33,
+      65
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AO",
+    "label": "Angola",
+    "flag": "🇦🇴",
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AI",
+    "label": "Anguilla",
+    "flag": "🇦🇮",
+    "latlng": [
+      18.25,
+      -63.16666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AX",
+    "label": "Åland Islands",
+    "flag": "🇦🇽",
+    "latlng": [
+      60.116667,
+      19.9
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AL",
+    "label": "Albania",
+    "flag": "🇦🇱",
+    "latlng": [
+      41,
+      20
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AD",
+    "label": "Andorra",
+    "flag": "🇦🇩",
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AE",
+    "label": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "latlng": [
+      24,
+      54
+    ],
+    "region": "Asia",
+    "regions": [
+      "Abu Dhabi",
+      "Dubai",
+      "Sharjah",
+      "Ajman",
+      "Umm Al-Quwain",
+      "Fujairah",
+      "Ras Al Khaimah"
+    ],
+    "regionCodes": []
+  },
+  {
+    "value": "AR",
+    "label": "Argentina",
+    "flag": "🇦🇷",
+    "latlng": [
+      -34,
+      -64
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AM",
+    "label": "Armenia",
+    "flag": "🇦🇲",
+    "latlng": [
+      40,
+      45
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AS",
+    "label": "American Samoa",
+    "flag": "🇦🇸",
+    "latlng": [
+      -14.33333333,
+      -170
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AQ",
+    "label": "Antarctica",
+    "flag": "🇦🇶",
+    "latlng": [
+      -90,
+      0
+    ],
+    "region": "Antarctic",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TF",
+    "label": "French Southern and Antarctic Lands",
+    "flag": "🇹🇫",
+    "latlng": [
+      -49.25,
+      69.167
+    ],
+    "region": "Antarctic",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AG",
+    "label": "Antigua and Barbuda",
+    "flag": "🇦🇬",
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AU",
+    "label": "Australia",
+    "flag": "🇦🇺",
+    "latlng": [
+      -27,
+      133
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "AT",
+    "label": "Austria",
+    "flag": "🇦🇹",
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "region": "Europe",
+    "regions": [
+      "Vienna",
+      "Lower Austria",
+      "Upper Austria",
+      "Tyrol",
+      "Vorarlberg",
+      "Eastern Tyrol",
+      "Carinthia",
+      "Styria",
+      "Burgenland",
+      "Salzkammergut",
+      "Salzburg",
+      "Gastein Valley",
+      "Grossarl Valley",
+      "Zillertal",
+      "Ötztal",
+      "Lungau",
+      "Montafon",
+      "Oberinntal",
+      "Pitztal",
+      "Murtal-Kreischberg",
+      "Arlberg mountain",
+      "Lake Neusiedl",
+      "Pongau",
+      "Pinzgau",
+      "Paznaun",
+      "Stubaital"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Vienna"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Lower Austria"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Upper Austria"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "Tyrol"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Vorarlberg"
+      },
+      {
+        "regionCode": "60",
+        "regionName": "Eastern Tyrol"
+      },
+      {
+        "regionCode": "70",
+        "regionName": "Carinthia"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Styria"
+      },
+      {
+        "regionCode": "90",
+        "regionName": "Burgenland"
+      },
+      {
+        "regionCode": "31",
+        "regionName": "Salzkammergut"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Salzburg"
+      },
+      {
+        "regionCode": "36",
+        "regionName": "Gastein Valley"
+      },
+      {
+        "regionCode": "37",
+        "regionName": "Grossarl Valley"
+      },
+      {
+        "regionCode": "41",
+        "regionName": "Zillertal"
+      },
+      {
+        "regionCode": "42",
+        "regionName": "Ötztal"
+      },
+      {
+        "regionCode": "32",
+        "regionName": "Lungau"
+      },
+      {
+        "regionCode": "51",
+        "regionName": "Montafon"
+      },
+      {
+        "regionCode": "39",
+        "regionName": "Oberinntal"
+      },
+      {
+        "regionCode": "95",
+        "regionName": "Pitztal"
+      },
+      {
+        "regionCode": "81",
+        "regionName": "Murtal-Kreischberg"
+      },
+      {
+        "regionCode": "52",
+        "regionName": "Arlberg mountain"
+      },
+      {
+        "regionCode": "91",
+        "regionName": "Lake Neusiedl"
+      },
+      {
+        "regionCode": "29",
+        "regionName": "Pongau"
+      },
+      {
+        "regionCode": "38",
+        "regionName": "Pinzgau"
+      },
+      {
+        "regionCode": "43",
+        "regionName": "Paznaun"
+      },
+      {
+        "regionCode": "44",
+        "regionName": "Stubaital"
+      }
+    ]
+  },
+  {
+    "value": "AZ",
+    "label": "Azerbaijan",
+    "flag": "🇦🇿",
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BI",
+    "label": "Burundi",
+    "flag": "🇧🇮",
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BE",
+    "label": "Belgium",
+    "flag": "🇧🇪",
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "region": "Europe",
+    "regions": [
+      "Flanders",
+      "Coast",
+      "Interior",
+      "Belgisch Limburg",
+      "Wallonia",
+      "Ardennes",
+      "Henegouwen"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "45",
+        "regionName": "Flanders"
+      },
+      {
+        "regionCode": "46",
+        "regionName": "Coast"
+      },
+      {
+        "regionCode": "48",
+        "regionName": "Interior"
+      },
+      {
+        "regionCode": "49",
+        "regionName": "Belgisch Limburg"
+      },
+      {
+        "regionCode": "55",
+        "regionName": "Wallonia"
+      },
+      {
+        "regionCode": "56",
+        "regionName": "Ardennes"
+      },
+      {
+        "regionCode": "57",
+        "regionName": "Henegouwen"
+      }
+    ]
+  },
+  {
+    "value": "BJ",
+    "label": "Benin",
+    "flag": "🇧🇯",
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BF",
+    "label": "Burkina Faso",
+    "flag": "🇧🇫",
+    "latlng": [
+      13,
+      -2
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BD",
+    "label": "Bangladesh",
+    "flag": "🇧🇩",
+    "latlng": [
+      24,
+      90
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BG",
+    "label": "Bulgaria",
+    "flag": "🇧🇬",
+    "latlng": [
+      43,
+      25
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BH",
+    "label": "Bahrain",
+    "flag": "🇧🇭",
+    "latlng": [
+      26,
+      50.55
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BS",
+    "label": "Bahamas",
+    "flag": "🇧🇸",
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BA",
+    "label": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "latlng": [
+      44,
+      18
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BL",
+    "label": "Saint Barthélemy",
+    "flag": "🇧🇱",
+    "latlng": [
+      18.5,
+      -63.41666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SH",
+    "label": "Saint Helena, Ascension and Tristan da Cunha",
+    "flag": "🇸🇭",
+    "latlng": [
+      -15.95,
+      -5.72
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BY",
+    "label": "Belarus",
+    "flag": "🇧🇾",
+    "latlng": [
+      53,
+      28
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BZ",
+    "label": "Belize",
+    "flag": "🇧🇿",
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BM",
+    "label": "Bermuda",
+    "flag": "🇧🇲",
+    "latlng": [
+      32.33333333,
+      -64.75
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BO",
+    "label": "Bolivia",
+    "flag": "🇧🇴",
+    "latlng": [
+      -17,
+      -65
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BQ",
+    "label": "Caribbean Netherlands",
+    "flag": "",
+    "latlng": [
+      12.18,
+      -68.25
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BR",
+    "label": "Brazil",
+    "flag": "🇧🇷",
+    "latlng": [
+      -10,
+      -55
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BB",
+    "label": "Barbados",
+    "flag": "🇧🇧",
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BN",
+    "label": "Brunei",
+    "flag": "🇧🇳",
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BT",
+    "label": "Bhutan",
+    "flag": "🇧🇹",
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BV",
+    "label": "Bouvet Island",
+    "flag": "🇧🇻",
+    "latlng": [
+      -54.43333333,
+      3.4
+    ],
+    "region": "Antarctic",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "BW",
+    "label": "Botswana",
+    "flag": "🇧🇼",
+    "latlng": [
+      -22,
+      24
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CF",
+    "label": "Central African Republic",
+    "flag": "🇨🇫",
+    "latlng": [
+      7,
+      21
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CA",
+    "label": "Canada",
+    "flag": "🇨🇦",
+    "latlng": [
+      60,
+      -95
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CC",
+    "label": "Cocos (Keeling) Islands",
+    "flag": "🇨🇨",
+    "latlng": [
+      -12.5,
+      96.83333333
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CH",
+    "label": "Switzerland",
+    "flag": "🇨🇭",
+    "latlng": [
+      47,
+      8
+    ],
+    "region": "Europe",
+    "regions": [
+      "Alpes Vaudoises",
+      "Lake Geneva Region",
+      "Valais",
+      "Jura",
+      "Freiburg",
+      "Bernese Oberland",
+      "Bernese Mittelland",
+      "Central Switzerland",
+      "Ticino",
+      "Graubunden",
+      "Engadine",
+      "Misox",
+      "Surselva",
+      "Prättigau",
+      "Mittelbünden",
+      "Viamala/Surses/Albulatal",
+      "Eastern Switzerland",
+      "Lake Zurich Region",
+      "Val d’Anniviers",
+      "Portes du Soleil",
+      "Emmental"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Alpes Vaudoises"
+      },
+      {
+        "regionCode": "02",
+        "regionName": "Lake Geneva Region"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Valais"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Jura"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Freiburg"
+      },
+      {
+        "regionCode": "35",
+        "regionName": "Bernese Oberland"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "Bernese Mittelland"
+      },
+      {
+        "regionCode": "45",
+        "regionName": "Central Switzerland"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Ticino"
+      },
+      {
+        "regionCode": "60",
+        "regionName": "Graubunden"
+      },
+      {
+        "regionCode": "61",
+        "regionName": "Engadine"
+      },
+      {
+        "regionCode": "62",
+        "regionName": "Misox"
+      },
+      {
+        "regionCode": "65",
+        "regionName": "Surselva"
+      },
+      {
+        "regionCode": "66",
+        "regionName": "Prättigau"
+      },
+      {
+        "regionCode": "67",
+        "regionName": "Mittelbünden"
+      },
+      {
+        "regionCode": "68",
+        "regionName": "Viamala/Surses/Albulatal"
+      },
+      {
+        "regionCode": "70",
+        "regionName": "Eastern Switzerland"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Lake Zurich Region"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Val d’Anniviers"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Portes du Soleil"
+      },
+      {
+        "regionCode": "41",
+        "regionName": "Emmental"
+      }
+    ]
+  },
+  {
+    "value": "CL",
+    "label": "Chile",
+    "flag": "🇨🇱",
+    "latlng": [
+      -30,
+      -71
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CN",
+    "label": "China",
+    "flag": "🇨🇳",
+    "latlng": [
+      35,
+      105
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CI",
+    "label": "Ivory Coast",
+    "flag": "🇨🇮",
+    "latlng": [
+      8,
+      -5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CM",
+    "label": "Cameroon",
+    "flag": "🇨🇲",
+    "latlng": [
+      6,
+      12
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CD",
+    "label": "DR Congo",
+    "flag": "🇨🇩",
+    "latlng": [
+      0,
+      25
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CG",
+    "label": "Republic of the Congo",
+    "flag": "🇨🇬",
+    "latlng": [
+      -1,
+      15
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CK",
+    "label": "Cook Islands",
+    "flag": "🇨🇰",
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CO",
+    "label": "Colombia",
+    "flag": "🇨🇴",
+    "latlng": [
+      4,
+      -72
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KM",
+    "label": "Comoros",
+    "flag": "🇰🇲",
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CV",
+    "label": "Cape Verde",
+    "flag": "🇨🇻",
+    "latlng": [
+      16,
+      -24
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CR",
+    "label": "Costa Rica",
+    "flag": "🇨🇷",
+    "latlng": [
+      10,
+      -84
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CU",
+    "label": "Cuba",
+    "flag": "🇨🇺",
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CW",
+    "label": "Curaçao",
+    "flag": "🇨🇼",
+    "latlng": [
+      12.116667,
+      -68.933333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CX",
+    "label": "Christmas Island",
+    "flag": "🇨🇽",
+    "latlng": [
+      -10.5,
+      105.66666666
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KY",
+    "label": "Cayman Islands",
+    "flag": "🇰🇾",
+    "latlng": [
+      19.5,
+      -80.5
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "CY",
+    "label": "Cyprus",
+    "flag": "🇨🇾",
+    "latlng": [
+      35,
+      33
+    ],
+    "region": "Europe",
+    "regions": [
+      "Aphrodite Hills",
+      "Ayia Napa",
+      "Agraka",
+      "Larnaca",
+      "Paphos",
+      "Pernera",
+      "Protaras",
+      "Paralimni"
+    ],
+    "regionCodes": []
+  },
+  {
+    "value": "CZ",
+    "label": "Czechia",
+    "flag": "🇨🇿",
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "DE",
+    "label": "Germany",
+    "flag": "🇩🇪",
+    "latlng": [
+      51,
+      9
+    ],
+    "region": "Europe",
+    "regions": [
+      "Baltic Sea",
+      "North Sea",
+      "Mecklenburgische Seenplatte",
+      "Weserbergland",
+      "Harz",
+      "Lüneburger Heide",
+      "Saxony-Anhalt",
+      "Brandenburg",
+      "Eifel",
+      "Sauerland",
+      "Teutoburg Forest",
+      "Odenwald",
+      "Hessisches Bergland",
+      "Thuringian Forest",
+      "Saxony",
+      "Rhine - Mosel - Ahr - Lahn",
+      "Hunsrück",
+      "Palatinate",
+      "Black Forest",
+      "Lake Constance",
+      "Upper Bavaria",
+      "Bavaria",
+      "Bavarian Forest",
+      "Franken - Fichtelgebirge - Taubertal",
+      "Allgau",
+      "Emsland",
+      "Rügen",
+      "Usedom",
+      "Altmühltal",
+      "Swabian - Franconian Forest",
+      "Rhön",
+      "Ruhrgebiet",
+      "Edersee",
+      "Westerwald"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Baltic Sea"
+      },
+      {
+        "regionCode": "02",
+        "regionName": "North Sea"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Mecklenburgische Seenplatte"
+      },
+      {
+        "regionCode": "04",
+        "regionName": "Weserbergland"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Harz"
+      },
+      {
+        "regionCode": "06",
+        "regionName": "Lüneburger Heide"
+      },
+      {
+        "regionCode": "07",
+        "regionName": "Saxony-Anhalt"
+      },
+      {
+        "regionCode": "08",
+        "regionName": "Brandenburg"
+      },
+      {
+        "regionCode": "09",
+        "regionName": "Eifel"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Sauerland"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Teutoburg Forest"
+      },
+      {
+        "regionCode": "12",
+        "regionName": "Odenwald"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Hessisches Bergland"
+      },
+      {
+        "regionCode": "14",
+        "regionName": "Thuringian Forest"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Saxony"
+      },
+      {
+        "regionCode": "17",
+        "regionName": "Rhine - Mosel - Ahr - Lahn"
+      },
+      {
+        "regionCode": "18",
+        "regionName": "Hunsrück"
+      },
+      {
+        "regionCode": "19",
+        "regionName": "Palatinate"
+      },
+      {
+        "regionCode": "21",
+        "regionName": "Black Forest"
+      },
+      {
+        "regionCode": "22",
+        "regionName": "Lake Constance"
+      },
+      {
+        "regionCode": "23",
+        "regionName": "Upper Bavaria"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "Bavaria"
+      },
+      {
+        "regionCode": "24",
+        "regionName": "Bavarian Forest"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Franken - Fichtelgebirge - Taubertal"
+      },
+      {
+        "regionCode": "26",
+        "regionName": "Allgau"
+      },
+      {
+        "regionCode": "28",
+        "regionName": "Emsland"
+      },
+      {
+        "regionCode": "51",
+        "regionName": "Rügen"
+      },
+      {
+        "regionCode": "52",
+        "regionName": "Usedom"
+      },
+      {
+        "regionCode": "41",
+        "regionName": "Altmühltal"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Swabian - Franconian Forest"
+      },
+      {
+        "regionCode": "32",
+        "regionName": "Rhön"
+      },
+      {
+        "regionCode": "31",
+        "regionName": "Ruhrgebiet"
+      },
+      {
+        "regionCode": "33",
+        "regionName": "Edersee"
+      },
+      {
+        "regionCode": "34",
+        "regionName": "Westerwald"
+      }
+    ]
+  },
+  {
+    "value": "DJ",
+    "label": "Djibouti",
+    "flag": "🇩🇯",
+    "latlng": [
+      11.5,
+      43
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "DM",
+    "label": "Dominica",
+    "flag": "🇩🇲",
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "DK",
+    "label": "Denmark",
+    "flag": "🇩🇰",
+    "latlng": [
+      56,
+      10
+    ],
+    "region": "Europe",
+    "regions": [
+      "Jutland & North Sea",
+      "Limfjord",
+      "Baltic Sea",
+      "Bornholm",
+      "Sealand",
+      "Lolland, Falster & Møn",
+      "Western Jutland",
+      "Southeast Jutland",
+      "Northwest Jutland",
+      "Northeast Jutland",
+      "Djursland & Mols",
+      "Funen & islands"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "20",
+        "regionName": "Jutland & North Sea"
+      },
+      {
+        "regionCode": "23",
+        "regionName": "Limfjord"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Baltic Sea"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Bornholm"
+      },
+      {
+        "regionCode": "12",
+        "regionName": "Sealand"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Lolland, Falster & Møn"
+      },
+      {
+        "regionCode": "22",
+        "regionName": "Western Jutland"
+      },
+      {
+        "regionCode": "21",
+        "regionName": "Southeast Jutland"
+      },
+      {
+        "regionCode": "24",
+        "regionName": "Northwest Jutland"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Northeast Jutland"
+      },
+      {
+        "regionCode": "26",
+        "regionName": "Djursland & Mols"
+      },
+      {
+        "regionCode": "14",
+        "regionName": "Funen & islands"
+      }
+    ]
+  },
+  {
+    "value": "DO",
+    "label": "Dominican Republic",
+    "flag": "🇩🇴",
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "DZ",
+    "label": "Algeria",
+    "flag": "🇩🇿",
+    "latlng": [
+      28,
+      3
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "EC",
+    "label": "Ecuador",
+    "flag": "🇪🇨",
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "EG",
+    "label": "Egypt",
+    "flag": "🇪🇬",
+    "latlng": [
+      27,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ER",
+    "label": "Eritrea",
+    "flag": "🇪🇷",
+    "latlng": [
+      15,
+      39
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "EH",
+    "label": "Western Sahara",
+    "flag": "🇪🇭",
+    "latlng": [
+      24.5,
+      -13
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ES",
+    "label": "Spain",
+    "flag": "🇪🇸",
+    "latlng": [
+      40,
+      -4
+    ],
+    "region": "Europe",
+    "regions": [
+      "Madrid",
+      "Galicia",
+      "Cantabria",
+      "Basque Country",
+      "Pyrenees",
+      "Inland Catalonia",
+      "Costa Brava",
+      "Barcelona – North Coast",
+      "Barcelona",
+      "Costa del Garraf",
+      "Costa Daurada",
+      "Navarra",
+      "Costa de Valencia",
+      "Valencia",
+      "Costa del Azahar",
+      "Costa Blanca",
+      "Costa Cálida",
+      "Inland Andalucia",
+      "Costa de Almería",
+      "Costa Tropical",
+      "Costa del Sol",
+      "Costa de la Luz",
+      "Canary Islands",
+      "Gran Canaria",
+      "Fuerteventura",
+      "Lanzarote",
+      "La Palma",
+      "Tenerife",
+      "Balearic Islands",
+      "Mallorca",
+      "Menorca",
+      "Ibiza",
+      "Formentera"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Madrid"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Galicia"
+      },
+      {
+        "regionCode": "07",
+        "regionName": "Cantabria"
+      },
+      {
+        "regionCode": "08",
+        "regionName": "Basque Country"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Pyrenees"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Inland Catalonia"
+      },
+      {
+        "regionCode": "12",
+        "regionName": "Costa Brava"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Barcelona – North Coast"
+      },
+      {
+        "regionCode": "14",
+        "regionName": "Barcelona"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Costa del Garraf"
+      },
+      {
+        "regionCode": "16",
+        "regionName": "Costa Daurada"
+      },
+      {
+        "regionCode": "17",
+        "regionName": "Navarra"
+      },
+      {
+        "regionCode": "37",
+        "regionName": "Costa de Valencia"
+      },
+      {
+        "regionCode": "38",
+        "regionName": "Valencia"
+      },
+      {
+        "regionCode": "39",
+        "regionName": "Costa del Azahar"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "Costa Blanca"
+      },
+      {
+        "regionCode": "43",
+        "regionName": "Costa Cálida"
+      },
+      {
+        "regionCode": "48",
+        "regionName": "Inland Andalucia"
+      },
+      {
+        "regionCode": "49",
+        "regionName": "Costa de Almería"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Costa Tropical"
+      },
+      {
+        "regionCode": "51",
+        "regionName": "Costa del Sol"
+      },
+      {
+        "regionCode": "52",
+        "regionName": "Costa de la Luz"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Canary Islands"
+      },
+      {
+        "regionCode": "81",
+        "regionName": "Gran Canaria"
+      },
+      {
+        "regionCode": "82",
+        "regionName": "Fuerteventura"
+      },
+      {
+        "regionCode": "83",
+        "regionName": "Lanzarote"
+      },
+      {
+        "regionCode": "84",
+        "regionName": "La Palma"
+      },
+      {
+        "regionCode": "85",
+        "regionName": "Tenerife"
+      },
+      {
+        "regionCode": "90",
+        "regionName": "Balearic Islands"
+      },
+      {
+        "regionCode": "91",
+        "regionName": "Mallorca"
+      },
+      {
+        "regionCode": "92",
+        "regionName": "Menorca"
+      },
+      {
+        "regionCode": "93",
+        "regionName": "Ibiza"
+      },
+      {
+        "regionCode": "94",
+        "regionName": "Formentera"
+      }
+    ]
+  },
+  {
+    "value": "EE",
+    "label": "Estonia",
+    "flag": "🇪🇪",
+    "latlng": [
+      59,
+      26
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ET",
+    "label": "Ethiopia",
+    "flag": "🇪🇹",
+    "latlng": [
+      8,
+      38
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "FI",
+    "label": "Finland",
+    "flag": "🇫🇮",
+    "latlng": [
+      64,
+      26
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "FJ",
+    "label": "Fiji",
+    "flag": "🇫🇯",
+    "latlng": [
+      -18,
+      175
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "FK",
+    "label": "Falkland Islands",
+    "flag": "🇫🇰",
+    "latlng": [
+      -51.75,
+      -59
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "FR",
+    "label": "France",
+    "flag": "🇫🇷",
+    "latlng": [
+      46,
+      2
+    ],
+    "region": "Europe",
+    "regions": [
+      "Ile-de-France",
+      "Loire Valley",
+      "Burgundy",
+      "Alsace",
+      "Lorraine-Vosges",
+      "Nord/Pas-de-Calais",
+      "Picardie",
+      "Normandy",
+      "Western Loire",
+      "Poitou-Charentes",
+      "Limousin",
+      "Auvergne",
+      "Aquitaine",
+      "Basque Country",
+      "Les Landes",
+      "Gironde",
+      "Lot-Midi-Pyrénées",
+      "Lot",
+      "Hautes Pyrénées",
+      "Languedoc-Roussillon",
+      "Gard-Lozère",
+      "Hérault-Aude",
+      "Pyrénées-Orientales",
+      "Ardèche",
+      "Provence",
+      "Cote d'Azur",
+      "Corsica",
+      "Alps",
+      "Dauphinoise",
+      "Savoie - Haute Savoie",
+      "Southern Alps",
+      "Vosges",
+      "Luberon",
+      "Charente-Maritime",
+      "Périgord",
+      "Tarn-et-Garonne",
+      "Lot-et-Garonne",
+      "Vendée",
+      "Camargue",
+      "Brittany",
+      "Côtes d'Armor",
+      "Finistère",
+      "Ille-et-Vilaine",
+      "Loire-Atlantique",
+      "Morbihan"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Ile-de-France"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Loire Valley"
+      },
+      {
+        "regionCode": "09",
+        "regionName": "Burgundy"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Alsace"
+      },
+      {
+        "regionCode": "12",
+        "regionName": "Lorraine-Vosges"
+      },
+      {
+        "regionCode": "22",
+        "regionName": "Nord/Pas-de-Calais"
+      },
+      {
+        "regionCode": "24",
+        "regionName": "Picardie"
+      },
+      {
+        "regionCode": "27",
+        "regionName": "Normandy"
+      },
+      {
+        "regionCode": "37",
+        "regionName": "Western Loire"
+      },
+      {
+        "regionCode": "43",
+        "regionName": "Poitou-Charentes"
+      },
+      {
+        "regionCode": "45",
+        "regionName": "Limousin"
+      },
+      {
+        "regionCode": "46",
+        "regionName": "Auvergne"
+      },
+      {
+        "regionCode": "47",
+        "regionName": "Aquitaine"
+      },
+      {
+        "regionCode": "48",
+        "regionName": "Basque Country"
+      },
+      {
+        "regionCode": "49",
+        "regionName": "Les Landes"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Gironde"
+      },
+      {
+        "regionCode": "57",
+        "regionName": "Lot-Midi-Pyrénées"
+      },
+      {
+        "regionCode": "59",
+        "regionName": "Lot"
+      },
+      {
+        "regionCode": "60",
+        "regionName": "Hautes Pyrénées"
+      },
+      {
+        "regionCode": "66",
+        "regionName": "Languedoc-Roussillon"
+      },
+      {
+        "regionCode": "67",
+        "regionName": "Gard-Lozère"
+      },
+      {
+        "regionCode": "68",
+        "regionName": "Hérault-Aude"
+      },
+      {
+        "regionCode": "69",
+        "regionName": "Pyrénées-Orientales"
+      },
+      {
+        "regionCode": "71",
+        "regionName": "Ardèche"
+      },
+      {
+        "regionCode": "72",
+        "regionName": "Provence"
+      },
+      {
+        "regionCode": "75",
+        "regionName": "Cote d'Azur"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Corsica"
+      },
+      {
+        "regionCode": "93",
+        "regionName": "Alps"
+      },
+      {
+        "regionCode": "94",
+        "regionName": "Dauphinoise"
+      },
+      {
+        "regionCode": "96",
+        "regionName": "Savoie - Haute Savoie"
+      },
+      {
+        "regionCode": "98",
+        "regionName": "Southern Alps"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Vosges"
+      },
+      {
+        "regionCode": "73",
+        "regionName": "Luberon"
+      },
+      {
+        "regionCode": "44",
+        "regionName": "Charente-Maritime"
+      },
+      {
+        "regionCode": "52",
+        "regionName": "Périgord"
+      },
+      {
+        "regionCode": "53",
+        "regionName": "Tarn-et-Garonne"
+      },
+      {
+        "regionCode": "54",
+        "regionName": "Lot-et-Garonne"
+      },
+      {
+        "regionCode": "38",
+        "regionName": "Vendée"
+      },
+      {
+        "regionCode": "65",
+        "regionName": "Camargue"
+      },
+      {
+        "regionCode": "33",
+        "regionName": "Brittany"
+      },
+      {
+        "regionCode": "29",
+        "regionName": "Côtes d'Armor"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Finistère"
+      },
+      {
+        "regionCode": "31",
+        "regionName": "Ille-et-Vilaine"
+      },
+      {
+        "regionCode": "39",
+        "regionName": "Loire-Atlantique"
+      },
+      {
+        "regionCode": "32",
+        "regionName": "Morbihan"
+      }
+    ]
+  },
+  {
+    "value": "FO",
+    "label": "Faroe Islands",
+    "flag": "🇫🇴",
+    "latlng": [
+      62,
+      -7
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "FM",
+    "label": "Micronesia",
+    "flag": "🇫🇲",
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GA",
+    "label": "Gabon",
+    "flag": "🇬🇦",
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GB",
+    "label": "United Kingdom",
+    "flag": "🇬🇧",
+    "latlng": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "regions": [
+      "Belper"
+    ],
+    "regionCodes": []
+  },
+  {
+    "value": "GE",
+    "label": "Georgia",
+    "flag": "🇬🇪",
+    "latlng": [
+      42,
+      43.5
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GG",
+    "label": "Guernsey",
+    "flag": "🇬🇬",
+    "latlng": [
+      49.46666666,
+      -2.58333333
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GH",
+    "label": "Ghana",
+    "flag": "🇬🇭",
+    "latlng": [
+      8,
+      -2
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GI",
+    "label": "Gibraltar",
+    "flag": "🇬🇮",
+    "latlng": [
+      36.13333333,
+      -5.35
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GN",
+    "label": "Guinea",
+    "flag": "🇬🇳",
+    "latlng": [
+      11,
+      -10
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GP",
+    "label": "Guadeloupe",
+    "flag": "🇬🇵",
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GM",
+    "label": "Gambia",
+    "flag": "🇬🇲",
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GW",
+    "label": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "latlng": [
+      12,
+      -15
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GQ",
+    "label": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "latlng": [
+      2,
+      10
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GR",
+    "label": "Greece",
+    "flag": "🇬🇷",
+    "latlng": [
+      39,
+      22
+    ],
+    "region": "Europe",
+    "regions": [
+      "Attica",
+      "Central Macedonia",
+      "Crete",
+      "Epirus",
+      "Thessaloniki",
+      "Peloponnese",
+      "Ionian Islands",
+      "North Aegean",
+      "South Aegean",
+      "Western Macedonia",
+      "Eastern Macedonia and Thrace",
+      "Aptera",
+      "Corfu",
+      "Kato Korakiana",
+      "Mykonos",
+      "Santorini",
+      "Zakynthos"
+    ],
+    "regionCodes": []
+  },
+  {
+    "value": "GD",
+    "label": "Grenada",
+    "flag": "🇬🇩",
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GL",
+    "label": "Greenland",
+    "flag": "🇬🇱",
+    "latlng": [
+      72,
+      -40
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GT",
+    "label": "Guatemala",
+    "flag": "🇬🇹",
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GF",
+    "label": "French Guiana",
+    "flag": "🇬🇫",
+    "latlng": [
+      4,
+      -53
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GU",
+    "label": "Guam",
+    "flag": "🇬🇺",
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GY",
+    "label": "Guyana",
+    "flag": "🇬🇾",
+    "latlng": [
+      5,
+      -59
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "HK",
+    "label": "Hong Kong",
+    "flag": "🇭🇰",
+    "latlng": [
+      22.267,
+      114.188
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "HM",
+    "label": "Heard Island and McDonald Islands",
+    "flag": "🇭🇲",
+    "latlng": [
+      -53.1,
+      72.51666666
+    ],
+    "region": "Antarctic",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "HN",
+    "label": "Honduras",
+    "flag": "🇭🇳",
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "HR",
+    "label": "Croatia",
+    "flag": "🇭🇷",
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "region": "Europe",
+    "regions": [
+      "South Dalmatia",
+      "Dalmatia",
+      "Central Croatia",
+      "Istria",
+      "Kvarner",
+      "North Dalmatia",
+      "Kvarner Hills",
+      "Central Dalmatia"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "60",
+        "regionName": "South Dalmatia"
+      },
+      {
+        "regionCode": "39",
+        "regionName": "Dalmatia"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Central Croatia"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Istria"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Kvarner"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "North Dalmatia"
+      },
+      {
+        "regionCode": "70",
+        "regionName": "Kvarner Hills"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Central Dalmatia"
+      }
+    ]
+  },
+  {
+    "value": "HT",
+    "label": "Haiti",
+    "flag": "🇭🇹",
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "HU",
+    "label": "Hungary",
+    "flag": "🇭🇺",
+    "latlng": [
+      47,
+      20
+    ],
+    "region": "Europe",
+    "regions": [
+      "Budapest",
+      "Lake Balaton - North Shore",
+      "Balaton",
+      "Lake Balaton - South Shore",
+      "Velence-Lake",
+      "Thermal"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Budapest"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Lake Balaton - North Shore"
+      },
+      {
+        "regionCode": "04",
+        "regionName": "Balaton"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Lake Balaton - South Shore"
+      },
+      {
+        "regionCode": "06",
+        "regionName": "Velence-Lake"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Thermal"
+      }
+    ]
+  },
+  {
+    "value": "ID",
+    "label": "Indonesia",
+    "flag": "🇮🇩",
+    "latlng": [
+      -5,
+      120
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IM",
+    "label": "Isle of Man",
+    "flag": "🇮🇲",
+    "latlng": [
+      54.25,
+      -4.5
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IN",
+    "label": "India",
+    "flag": "🇮🇳",
+    "latlng": [
+      20,
+      77
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IO",
+    "label": "British Indian Ocean Territory",
+    "flag": "🇮🇴",
+    "latlng": [
+      -6,
+      71.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IE",
+    "label": "Ireland",
+    "flag": "🇮🇪",
+    "latlng": [
+      53,
+      -8
+    ],
+    "region": "Europe",
+    "regions": [
+      "Dublin",
+      "South East",
+      "Cork and Kerry",
+      "The Shannon Region",
+      "West Ireland",
+      "North West Ireland"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Dublin"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "South East"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Cork and Kerry"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "The Shannon Region"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "West Ireland"
+      },
+      {
+        "regionCode": "60",
+        "regionName": "North West Ireland"
+      }
+    ]
+  },
+  {
+    "value": "IR",
+    "label": "Iran",
+    "flag": "🇮🇷",
+    "latlng": [
+      32,
+      53
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IQ",
+    "label": "Iraq",
+    "flag": "🇮🇶",
+    "latlng": [
+      33,
+      44
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IS",
+    "label": "Iceland",
+    "flag": "🇮🇸",
+    "latlng": [
+      65,
+      -18
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IL",
+    "label": "Israel",
+    "flag": "🇮🇱",
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "IT",
+    "label": "Italy",
+    "flag": "🇮🇹",
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "region": "Europe",
+    "regions": [
+      "Aosta Valley",
+      "Piemonte",
+      "Liguria",
+      "Liguria Riviera Ponente",
+      "Liguria Riviera Levante & Cinque Terre",
+      "Lombardy",
+      "North-Italian Lakes",
+      "Lago d’Orta",
+      "Lake Maggiore",
+      "Lake Lugano",
+      "Lake Como",
+      "Lake Iseo and Idro",
+      "Lake Garda",
+      "Lake Ledro",
+      "Trentino",
+      "Dolomites",
+      "Alto Adige/South Tirol",
+      "Friuli-Venezia Giulia",
+      "Adriatic",
+      "Tuscany",
+      "Florence Countryside",
+      "Tuscany Chianti",
+      "Arezzo, Cortona and surroundings",
+      "Lucca, Pisa and surroundings",
+      "Versilia, Lunigiana and surroundings",
+      "Maremma Coast",
+      "Siena and surroundings",
+      "Elba Island",
+      "Firenze Città and surroundings",
+      "Umbria",
+      "Lazio Inland",
+      "Campania",
+      "Ischia/Capri/Procida",
+      "Amalfi Coast",
+      "Cilento",
+      "Naples & Sorrentino Peninsula",
+      "Calabria",
+      "Puglia",
+      "Sicily",
+      "Sardinia",
+      "Trulli",
+      "Trasimeno Lake",
+      "Maremma Inland",
+      "Riviera degli Etruschi",
+      "Piemonte-Langhe & Monferrato",
+      "Gargano",
+      "Salento",
+      "Fassa Valley",
+      "Abruzzo",
+      "Molise",
+      "Veneto",
+      "Emilia Romagna",
+      "Marche",
+      "Lazio Coast",
+      "Rome City",
+      "Fiemme Valley"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Aosta Valley"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Piemonte"
+      },
+      {
+        "regionCode": "04",
+        "regionName": "Liguria"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Liguria Riviera Ponente"
+      },
+      {
+        "regionCode": "06",
+        "regionName": "Liguria Riviera Levante & Cinque Terre"
+      },
+      {
+        "regionCode": "09",
+        "regionName": "Lombardy"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "North-Italian Lakes"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Lago d’Orta"
+      },
+      {
+        "regionCode": "12",
+        "regionName": "Lake Maggiore"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Lake Lugano"
+      },
+      {
+        "regionCode": "14",
+        "regionName": "Lake Como"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Lake Iseo and Idro"
+      },
+      {
+        "regionCode": "17",
+        "regionName": "Lake Garda"
+      },
+      {
+        "regionCode": "18",
+        "regionName": "Lake Ledro"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Trentino"
+      },
+      {
+        "regionCode": "21",
+        "regionName": "Dolomites"
+      },
+      {
+        "regionCode": "22",
+        "regionName": "Alto Adige/South Tirol"
+      },
+      {
+        "regionCode": "24",
+        "regionName": "Friuli-Venezia Giulia"
+      },
+      {
+        "regionCode": "34",
+        "regionName": "Adriatic"
+      },
+      {
+        "regionCode": "42",
+        "regionName": "Tuscany"
+      },
+      {
+        "regionCode": "44",
+        "regionName": "Florence Countryside"
+      },
+      {
+        "regionCode": "45",
+        "regionName": "Tuscany Chianti"
+      },
+      {
+        "regionCode": "47",
+        "regionName": "Arezzo, Cortona and surroundings"
+      },
+      {
+        "regionCode": "49",
+        "regionName": "Lucca, Pisa and surroundings"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Versilia, Lunigiana and surroundings"
+      },
+      {
+        "regionCode": "52",
+        "regionName": "Maremma Coast"
+      },
+      {
+        "regionCode": "53",
+        "regionName": "Siena and surroundings"
+      },
+      {
+        "regionCode": "55",
+        "regionName": "Elba Island"
+      },
+      {
+        "regionCode": "56",
+        "regionName": "Firenze Città and surroundings"
+      },
+      {
+        "regionCode": "58",
+        "regionName": "Umbria"
+      },
+      {
+        "regionCode": "60",
+        "regionName": "Lazio Inland"
+      },
+      {
+        "regionCode": "70",
+        "regionName": "Campania"
+      },
+      {
+        "regionCode": "71",
+        "regionName": "Ischia/Capri/Procida"
+      },
+      {
+        "regionCode": "72",
+        "regionName": "Amalfi Coast"
+      },
+      {
+        "regionCode": "73",
+        "regionName": "Cilento"
+      },
+      {
+        "regionCode": "74",
+        "regionName": "Naples & Sorrentino Peninsula"
+      },
+      {
+        "regionCode": "75",
+        "regionName": "Calabria"
+      },
+      {
+        "regionCode": "77",
+        "regionName": "Puglia"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Sicily"
+      },
+      {
+        "regionCode": "90",
+        "regionName": "Sardinia"
+      },
+      {
+        "regionCode": "78",
+        "regionName": "Trulli"
+      },
+      {
+        "regionCode": "59",
+        "regionName": "Trasimeno Lake"
+      },
+      {
+        "regionCode": "46",
+        "regionName": "Maremma Inland"
+      },
+      {
+        "regionCode": "43",
+        "regionName": "Riviera degli Etruschi"
+      },
+      {
+        "regionCode": "02",
+        "regionName": "Piemonte-Langhe & Monferrato"
+      },
+      {
+        "regionCode": "07",
+        "regionName": "Gargano"
+      },
+      {
+        "regionCode": "08",
+        "regionName": "Salento"
+      },
+      {
+        "regionCode": "26",
+        "regionName": "Fassa Valley"
+      },
+      {
+        "regionCode": "38",
+        "regionName": "Abruzzo"
+      },
+      {
+        "regionCode": "39",
+        "regionName": "Molise"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Veneto"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Emilia Romagna"
+      },
+      {
+        "regionCode": "35",
+        "regionName": "Marche"
+      },
+      {
+        "regionCode": "61",
+        "regionName": "Lazio Coast"
+      },
+      {
+        "regionCode": "62",
+        "regionName": "Rome City"
+      },
+      {
+        "regionCode": "27",
+        "regionName": "Fiemme Valley"
+      }
+    ]
+  },
+  {
+    "value": "JM",
+    "label": "Jamaica",
+    "flag": "🇯🇲",
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "JE",
+    "label": "Jersey",
+    "flag": "🇯🇪",
+    "latlng": [
+      49.25,
+      -2.16666666
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "JO",
+    "label": "Jordan",
+    "flag": "🇯🇴",
+    "latlng": [
+      31,
+      36
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "JP",
+    "label": "Japan",
+    "flag": "🇯🇵",
+    "latlng": [
+      36,
+      138
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KZ",
+    "label": "Kazakhstan",
+    "flag": "🇰🇿",
+    "latlng": [
+      48,
+      68
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KE",
+    "label": "Kenya",
+    "flag": "🇰🇪",
+    "latlng": [
+      1,
+      38
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KG",
+    "label": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "latlng": [
+      41,
+      75
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KH",
+    "label": "Cambodia",
+    "flag": "🇰🇭",
+    "latlng": [
+      13,
+      105
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KI",
+    "label": "Kiribati",
+    "flag": "🇰🇮",
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KN",
+    "label": "Saint Kitts and Nevis",
+    "flag": "🇰🇳",
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KR",
+    "label": "South Korea",
+    "flag": "🇰🇷",
+    "latlng": [
+      37,
+      127.5
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "XK",
+    "label": "Kosovo",
+    "flag": "🇽🇰",
+    "latlng": [
+      42.666667,
+      21.166667
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KW",
+    "label": "Kuwait",
+    "flag": "🇰🇼",
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LA",
+    "label": "Laos",
+    "flag": "🇱🇦",
+    "latlng": [
+      18,
+      105
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LB",
+    "label": "Lebanon",
+    "flag": "🇱🇧",
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LR",
+    "label": "Liberia",
+    "flag": "🇱🇷",
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LY",
+    "label": "Libya",
+    "flag": "🇱🇾",
+    "latlng": [
+      25,
+      17
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LC",
+    "label": "Saint Lucia",
+    "flag": "🇱🇨",
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LI",
+    "label": "Liechtenstein",
+    "flag": "🇱🇮",
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LK",
+    "label": "Sri Lanka",
+    "flag": "🇱🇰",
+    "latlng": [
+      7,
+      81
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LS",
+    "label": "Lesotho",
+    "flag": "🇱🇸",
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LT",
+    "label": "Lithuania",
+    "flag": "🇱🇹",
+    "latlng": [
+      56,
+      24
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "LU",
+    "label": "Luxembourg",
+    "flag": "🇱🇺",
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "region": "Europe",
+    "regions": [
+      "Ardennes",
+      "Moselle"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "10",
+        "regionName": "Ardennes"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Moselle"
+      }
+    ]
+  },
+  {
+    "value": "LV",
+    "label": "Latvia",
+    "flag": "🇱🇻",
+    "latlng": [
+      57,
+      25
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MO",
+    "label": "Macau",
+    "flag": "🇲🇴",
+    "latlng": [
+      22.16666666,
+      113.55
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MF",
+    "label": "Saint Martin",
+    "flag": "🇲🇫",
+    "latlng": [
+      18.08333333,
+      -63.95
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MA",
+    "label": "Morocco",
+    "flag": "🇲🇦",
+    "latlng": [
+      32,
+      -5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MC",
+    "label": "Monaco",
+    "flag": "🇲🇨",
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MD",
+    "label": "Moldova",
+    "flag": "🇲🇩",
+    "latlng": [
+      47,
+      29
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MG",
+    "label": "Madagascar",
+    "flag": "🇲🇬",
+    "latlng": [
+      -20,
+      47
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MV",
+    "label": "Maldives",
+    "flag": "🇲🇻",
+    "latlng": [
+      3.25,
+      73
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MX",
+    "label": "Mexico",
+    "flag": "🇲🇽",
+    "latlng": [
+      23,
+      -102
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MH",
+    "label": "Marshall Islands",
+    "flag": "🇲🇭",
+    "latlng": [
+      9,
+      168
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MK",
+    "label": "North Macedonia",
+    "flag": "🇲🇰",
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ML",
+    "label": "Mali",
+    "flag": "🇲🇱",
+    "latlng": [
+      17,
+      -4
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MT",
+    "label": "Malta",
+    "flag": "🇲🇹",
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MM",
+    "label": "Myanmar",
+    "flag": "🇲🇲",
+    "latlng": [
+      22,
+      98
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ME",
+    "label": "Montenegro",
+    "flag": "🇲🇪",
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MN",
+    "label": "Mongolia",
+    "flag": "🇲🇳",
+    "latlng": [
+      46,
+      105
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MP",
+    "label": "Northern Mariana Islands",
+    "flag": "🇲🇵",
+    "latlng": [
+      15.2,
+      145.75
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MZ",
+    "label": "Mozambique",
+    "flag": "🇲🇿",
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MR",
+    "label": "Mauritania",
+    "flag": "🇲🇷",
+    "latlng": [
+      20,
+      -12
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MS",
+    "label": "Montserrat",
+    "flag": "🇲🇸",
+    "latlng": [
+      16.75,
+      -62.2
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MQ",
+    "label": "Martinique",
+    "flag": "🇲🇶",
+    "latlng": [
+      14.666667,
+      -61
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MU",
+    "label": "Mauritius",
+    "flag": "🇲🇺",
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MW",
+    "label": "Malawi",
+    "flag": "🇲🇼",
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "MY",
+    "label": "Malaysia",
+    "flag": "🇲🇾",
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "YT",
+    "label": "Mayotte",
+    "flag": "🇾🇹",
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NA",
+    "label": "Namibia",
+    "flag": "🇳🇦",
+    "latlng": [
+      -22,
+      17
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NC",
+    "label": "New Caledonia",
+    "flag": "🇳🇨",
+    "latlng": [
+      -21.5,
+      165.5
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NE",
+    "label": "Niger",
+    "flag": "🇳🇪",
+    "latlng": [
+      16,
+      8
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NF",
+    "label": "Norfolk Island",
+    "flag": "🇳🇫",
+    "latlng": [
+      -29.03333333,
+      167.95
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NG",
+    "label": "Nigeria",
+    "flag": "🇳🇬",
+    "latlng": [
+      10,
+      8
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NI",
+    "label": "Nicaragua",
+    "flag": "🇳🇮",
+    "latlng": [
+      13,
+      -85
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NU",
+    "label": "Niue",
+    "flag": "🇳🇺",
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NL",
+    "label": "Netherlands",
+    "flag": "🇳🇱",
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "region": "Europe",
+    "regions": [
+      "Groningen",
+      "Friesland",
+      "Drenthe",
+      "Overijssel",
+      "Gelderland",
+      "Utrecht",
+      "Noord-Holland",
+      "Zuid-Holland",
+      "Zeeland",
+      "Noord-Brabant",
+      "Limburg",
+      "Flevoland",
+      "Ijsselmeer"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "10",
+        "regionName": "Groningen"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Friesland"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Drenthe"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Overijssel"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Gelderland"
+      },
+      {
+        "regionCode": "35",
+        "regionName": "Utrecht"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "Noord-Holland"
+      },
+      {
+        "regionCode": "45",
+        "regionName": "Zuid-Holland"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Zeeland"
+      },
+      {
+        "regionCode": "55",
+        "regionName": "Noord-Brabant"
+      },
+      {
+        "regionCode": "60",
+        "regionName": "Limburg"
+      },
+      {
+        "regionCode": "65",
+        "regionName": "Flevoland"
+      },
+      {
+        "regionCode": "17",
+        "regionName": "Ijsselmeer"
+      }
+    ]
+  },
+  {
+    "value": "NO",
+    "label": "Norway",
+    "flag": "🇳🇴",
+    "latlng": [
+      62,
+      10
+    ],
+    "region": "Europe",
+    "regions": [
+      "Hallingdal",
+      "Eastern Norway",
+      "Northern Norway",
+      "Lofoten",
+      "Valdres",
+      "Fjord Norway",
+      "Nordmøre",
+      "Sunnmøre",
+      "Nordfjord",
+      "Sunnfjord",
+      "(Outer) Sognefjord",
+      "(Inner) Sognefjord",
+      "Midthordland",
+      "Sunnhordland",
+      "Hardanger",
+      "Sørlandet",
+      "Lister",
+      "Åseral",
+      "Lindesnes and surroundings",
+      "Kristiansand and surroundings",
+      "Setesdal",
+      "Ost Agder",
+      "West Telemark",
+      "Vestmar",
+      "Gudbrandsdalen"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "61",
+        "regionName": "Hallingdal"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Eastern Norway"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Northern Norway"
+      },
+      {
+        "regionCode": "34",
+        "regionName": "Lofoten"
+      },
+      {
+        "regionCode": "67",
+        "regionName": "Valdres"
+      },
+      {
+        "regionCode": "04",
+        "regionName": "Fjord Norway"
+      },
+      {
+        "regionCode": "40",
+        "regionName": "Nordmøre"
+      },
+      {
+        "regionCode": "42",
+        "regionName": "Sunnmøre"
+      },
+      {
+        "regionCode": "43",
+        "regionName": "Nordfjord"
+      },
+      {
+        "regionCode": "44",
+        "regionName": "Sunnfjord"
+      },
+      {
+        "regionCode": "45",
+        "regionName": "(Outer) Sognefjord"
+      },
+      {
+        "regionCode": "46",
+        "regionName": "(Inner) Sognefjord"
+      },
+      {
+        "regionCode": "22",
+        "regionName": "Midthordland"
+      },
+      {
+        "regionCode": "24",
+        "regionName": "Sunnhordland"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Hardanger"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Sørlandet"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Lister"
+      },
+      {
+        "regionCode": "81",
+        "regionName": "Åseral"
+      },
+      {
+        "regionCode": "82",
+        "regionName": "Lindesnes and surroundings"
+      },
+      {
+        "regionCode": "83",
+        "regionName": "Kristiansand and surroundings"
+      },
+      {
+        "regionCode": "84",
+        "regionName": "Setesdal"
+      },
+      {
+        "regionCode": "85",
+        "regionName": "Ost Agder"
+      },
+      {
+        "regionCode": "87",
+        "regionName": "West Telemark"
+      },
+      {
+        "regionCode": "88",
+        "regionName": "Vestmar"
+      },
+      {
+        "regionCode": "69",
+        "regionName": "Gudbrandsdalen"
+      }
+    ]
+  },
+  {
+    "value": "NP",
+    "label": "Nepal",
+    "flag": "🇳🇵",
+    "latlng": [
+      28,
+      84
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NR",
+    "label": "Nauru",
+    "flag": "🇳🇷",
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "NZ",
+    "label": "New Zealand",
+    "flag": "🇳🇿",
+    "latlng": [
+      -41,
+      174
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "OM",
+    "label": "Oman",
+    "flag": "🇴🇲",
+    "latlng": [
+      21,
+      57
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PK",
+    "label": "Pakistan",
+    "flag": "🇵🇰",
+    "latlng": [
+      30,
+      70
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PA",
+    "label": "Panama",
+    "flag": "🇵🇦",
+    "latlng": [
+      9,
+      -80
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PN",
+    "label": "Pitcairn Islands",
+    "flag": "🇵🇳",
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PE",
+    "label": "Peru",
+    "flag": "🇵🇪",
+    "latlng": [
+      -10,
+      -76
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PH",
+    "label": "Philippines",
+    "flag": "🇵🇭",
+    "latlng": [
+      13,
+      122
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PW",
+    "label": "Palau",
+    "flag": "🇵🇼",
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PG",
+    "label": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "latlng": [
+      -6,
+      147
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PL",
+    "label": "Poland",
+    "flag": "🇵🇱",
+    "latlng": [
+      52,
+      20
+    ],
+    "region": "Europe",
+    "regions": [
+      "Pomerania",
+      "Mazury",
+      "Large Poland",
+      "Sudeten",
+      "Silesia",
+      "Beskidy",
+      "Tatras",
+      "Bieszczady",
+      "Podlasia",
+      "Little Poland",
+      "Mazovia",
+      "Baltic Sea (Poland)",
+      "Lubelskie Region",
+      "Lubuskie Region",
+      "Podkarpackie Region"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "Pomerania"
+      },
+      {
+        "regionCode": "02",
+        "regionName": "Mazury"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Large Poland"
+      },
+      {
+        "regionCode": "04",
+        "regionName": "Sudeten"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Silesia"
+      },
+      {
+        "regionCode": "06",
+        "regionName": "Beskidy"
+      },
+      {
+        "regionCode": "07",
+        "regionName": "Tatras"
+      },
+      {
+        "regionCode": "08",
+        "regionName": "Bieszczady"
+      },
+      {
+        "regionCode": "09",
+        "regionName": "Podlasia"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Little Poland"
+      },
+      {
+        "regionCode": "11",
+        "regionName": "Mazovia"
+      },
+      {
+        "regionCode": "13",
+        "regionName": "Baltic Sea (Poland)"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Lubelskie Region"
+      },
+      {
+        "regionCode": "17",
+        "regionName": "Lubuskie Region"
+      },
+      {
+        "regionCode": "16",
+        "regionName": "Podkarpackie Region"
+      }
+    ]
+  },
+  {
+    "value": "PR",
+    "label": "Puerto Rico",
+    "flag": "🇵🇷",
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "KP",
+    "label": "North Korea",
+    "flag": "🇰🇵",
+    "latlng": [
+      40,
+      127
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PT",
+    "label": "Portugal",
+    "flag": "🇵🇹",
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "region": "Europe",
+    "regions": [
+      "North/Oporto",
+      "Lisbon",
+      "Lisbon-Tejo Valley",
+      "Alentejo",
+      "Algarve"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "01",
+        "regionName": "North/Oporto"
+      },
+      {
+        "regionCode": "09",
+        "regionName": "Lisbon"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "Lisbon-Tejo Valley"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Alentejo"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Algarve"
+      }
+    ]
+  },
+  {
+    "value": "PY",
+    "label": "Paraguay",
+    "flag": "🇵🇾",
+    "latlng": [
+      -23,
+      -58
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PS",
+    "label": "Palestine",
+    "flag": "🇵🇸",
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PF",
+    "label": "French Polynesia",
+    "flag": "🇵🇫",
+    "latlng": [
+      -15,
+      -140
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "QA",
+    "label": "Qatar",
+    "flag": "🇶🇦",
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "RE",
+    "label": "Réunion",
+    "flag": "🇷🇪",
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "RO",
+    "label": "Romania",
+    "flag": "🇷🇴",
+    "latlng": [
+      46,
+      25
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "RU",
+    "label": "Russia",
+    "flag": "🇷🇺",
+    "latlng": [
+      60,
+      100
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "RW",
+    "label": "Rwanda",
+    "flag": "🇷🇼",
+    "latlng": [
+      -2,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SA",
+    "label": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "latlng": [
+      25,
+      45
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SD",
+    "label": "Sudan",
+    "flag": "🇸🇩",
+    "latlng": [
+      15,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SN",
+    "label": "Senegal",
+    "flag": "🇸🇳",
+    "latlng": [
+      14,
+      -14
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SG",
+    "label": "Singapore",
+    "flag": "🇸🇬",
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "GS",
+    "label": "South Georgia",
+    "flag": "🇬🇸",
+    "latlng": [
+      -54.5,
+      -37
+    ],
+    "region": "Antarctic",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SJ",
+    "label": "Svalbard and Jan Mayen",
+    "flag": "🇸🇯",
+    "latlng": [
+      78,
+      20
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SB",
+    "label": "Solomon Islands",
+    "flag": "🇸🇧",
+    "latlng": [
+      -8,
+      159
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SL",
+    "label": "Sierra Leone",
+    "flag": "🇸🇱",
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SV",
+    "label": "El Salvador",
+    "flag": "🇸🇻",
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SM",
+    "label": "San Marino",
+    "flag": "🇸🇲",
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SO",
+    "label": "Somalia",
+    "flag": "🇸🇴",
+    "latlng": [
+      10,
+      49
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "PM",
+    "label": "Saint Pierre and Miquelon",
+    "flag": "🇵🇲",
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "RS",
+    "label": "Serbia",
+    "flag": "🇷🇸",
+    "latlng": [
+      44,
+      21
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SS",
+    "label": "South Sudan",
+    "flag": "🇸🇸",
+    "latlng": [
+      7,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ST",
+    "label": "São Tomé and Príncipe",
+    "flag": "🇸🇹",
+    "latlng": [
+      1,
+      7
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SR",
+    "label": "Suriname",
+    "flag": "🇸🇷",
+    "latlng": [
+      4,
+      -56
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SK",
+    "label": "Slovakia",
+    "flag": "🇸🇰",
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "region": "Europe",
+    "regions": [
+      "Trentschin Region",
+      "Sillein Region",
+      "Preschau Region"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "10",
+        "regionName": "Trentschin Region"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Sillein Region"
+      },
+      {
+        "regionCode": "25",
+        "regionName": "Preschau Region"
+      }
+    ]
+  },
+  {
+    "value": "SI",
+    "label": "Slovenia",
+    "flag": "🇸🇮",
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "region": "Europe",
+    "regions": [
+      "Kranjska Gora",
+      "Drava",
+      "Coast & Karst region",
+      "Gorenjska",
+      "Goriška Brda",
+      "Julian Alps"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "10",
+        "regionName": "Kranjska Gora"
+      },
+      {
+        "regionCode": "07",
+        "regionName": "Drava"
+      },
+      {
+        "regionCode": "01",
+        "regionName": "Coast & Karst region"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Gorenjska"
+      },
+      {
+        "regionCode": "06",
+        "regionName": "Goriška Brda"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Julian Alps"
+      }
+    ]
+  },
+  {
+    "value": "SE",
+    "label": "Sweden",
+    "flag": "🇸🇪",
+    "latlng": [
+      62,
+      15
+    ],
+    "region": "Europe",
+    "regions": [
+      "Härjedalen",
+      "North Sweden",
+      "Hälsingland",
+      "Norrbotten - Lappland",
+      "Jämtland",
+      "Värmland",
+      "Swealand",
+      "Närke",
+      "Södermanland",
+      "Stockholm",
+      "Uppland",
+      "Kronoberg",
+      "Västmanland",
+      "Dalarna",
+      "Southern Sweden",
+      "Skåne",
+      "Blekinge",
+      "Småland",
+      "Halland",
+      "Bohuslän",
+      "Dalsland",
+      "Västra Götaland",
+      "Östergötland"
+    ],
+    "regionCodes": [
+      {
+        "regionCode": "21",
+        "regionName": "Härjedalen"
+      },
+      {
+        "regionCode": "10",
+        "regionName": "North Sweden"
+      },
+      {
+        "regionCode": "20",
+        "regionName": "Hälsingland"
+      },
+      {
+        "regionCode": "80",
+        "regionName": "Norrbotten - Lappland"
+      },
+      {
+        "regionCode": "85",
+        "regionName": "Jämtland"
+      },
+      {
+        "regionCode": "64",
+        "regionName": "Värmland"
+      },
+      {
+        "regionCode": "15",
+        "regionName": "Swealand"
+      },
+      {
+        "regionCode": "66",
+        "regionName": "Närke"
+      },
+      {
+        "regionCode": "07",
+        "regionName": "Södermanland"
+      },
+      {
+        "regionCode": "90",
+        "regionName": "Stockholm"
+      },
+      {
+        "regionCode": "67",
+        "regionName": "Uppland"
+      },
+      {
+        "regionCode": "50",
+        "regionName": "Kronoberg"
+      },
+      {
+        "regionCode": "99",
+        "regionName": "Västmanland"
+      },
+      {
+        "regionCode": "05",
+        "regionName": "Dalarna"
+      },
+      {
+        "regionCode": "30",
+        "regionName": "Southern Sweden"
+      },
+      {
+        "regionCode": "01",
+        "regionName": "Skåne"
+      },
+      {
+        "regionCode": "06",
+        "regionName": "Blekinge"
+      },
+      {
+        "regionCode": "08",
+        "regionName": "Småland"
+      },
+      {
+        "regionCode": "03",
+        "regionName": "Halland"
+      },
+      {
+        "regionCode": "09",
+        "regionName": "Bohuslän"
+      },
+      {
+        "regionCode": "35",
+        "regionName": "Dalsland"
+      },
+      {
+        "regionCode": "04",
+        "regionName": "Västra Götaland"
+      },
+      {
+        "regionCode": "65",
+        "regionName": "Östergötland"
+      }
+    ]
+  },
+  {
+    "value": "SZ",
+    "label": "Eswatini",
+    "flag": "🇸🇿",
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SX",
+    "label": "Sint Maarten",
+    "flag": "🇸🇽",
+    "latlng": [
+      18.033333,
+      -63.05
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SC",
+    "label": "Seychelles",
+    "flag": "🇸🇨",
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "SY",
+    "label": "Syria",
+    "flag": "🇸🇾",
+    "latlng": [
+      35,
+      38
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TC",
+    "label": "Turks and Caicos Islands",
+    "flag": "🇹🇨",
+    "latlng": [
+      21.75,
+      -71.58333333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TD",
+    "label": "Chad",
+    "flag": "🇹🇩",
+    "latlng": [
+      15,
+      19
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TG",
+    "label": "Togo",
+    "flag": "🇹🇬",
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TH",
+    "label": "Thailand",
+    "flag": "🇹🇭",
+    "latlng": [
+      15,
+      100
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TJ",
+    "label": "Tajikistan",
+    "flag": "🇹🇯",
+    "latlng": [
+      39,
+      71
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TK",
+    "label": "Tokelau",
+    "flag": "🇹🇰",
+    "latlng": [
+      -9,
+      -172
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TM",
+    "label": "Turkmenistan",
+    "flag": "🇹🇲",
+    "latlng": [
+      40,
+      60
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TL",
+    "label": "Timor-Leste",
+    "flag": "🇹🇱",
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TO",
+    "label": "Tonga",
+    "flag": "🇹🇴",
+    "latlng": [
+      -20,
+      -175
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TT",
+    "label": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "latlng": [
+      11,
+      -61
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TN",
+    "label": "Tunisia",
+    "flag": "🇹🇳",
+    "latlng": [
+      34,
+      9
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TR",
+    "label": "Turkey",
+    "flag": "🇹🇷",
+    "latlng": [
+      39,
+      35
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TV",
+    "label": "Tuvalu",
+    "flag": "🇹🇻",
+    "latlng": [
+      -8,
+      178
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TW",
+    "label": "Taiwan",
+    "flag": "🇹🇼",
+    "latlng": [
+      23.5,
+      121
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "TZ",
+    "label": "Tanzania",
+    "flag": "🇹🇿",
+    "latlng": [
+      -6,
+      35
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "UG",
+    "label": "Uganda",
+    "flag": "🇺🇬",
+    "latlng": [
+      1,
+      32
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "UA",
+    "label": "Ukraine",
+    "flag": "🇺🇦",
+    "latlng": [
+      49,
+      32
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "UM",
+    "label": "United States Minor Outlying Islands",
+    "flag": "🇺🇲",
+    "latlng": [
+      19.3,
+      166.633333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "UY",
+    "label": "Uruguay",
+    "flag": "🇺🇾",
+    "latlng": [
+      -33,
+      -56
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "US",
+    "label": "United States",
+    "flag": "🇺🇸",
+    "latlng": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "regions": [
+      "California",
+      "Texas",
+      "Florida",
+      "New York",
+      "Destin",
+      "Glacier",
+      "Kihei",
+      "Kissimmee",
+      "Orlando",
+      "Reunion"
+    ],
+    "regionCodes": []
+  },
+  {
+    "value": "UZ",
+    "label": "Uzbekistan",
+    "flag": "🇺🇿",
+    "latlng": [
+      41,
+      64
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VA",
+    "label": "Vatican City",
+    "flag": "🇻🇦",
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "region": "Europe",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VC",
+    "label": "Saint Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VE",
+    "label": "Venezuela",
+    "flag": "🇻🇪",
+    "latlng": [
+      8,
+      -66
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VG",
+    "label": "British Virgin Islands",
+    "flag": "🇻🇬",
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VI",
+    "label": "United States Virgin Islands",
+    "flag": "🇻🇮",
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "region": "Americas",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VN",
+    "label": "Vietnam",
+    "flag": "🇻🇳",
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "VU",
+    "label": "Vanuatu",
+    "flag": "🇻🇺",
+    "latlng": [
+      -16,
+      167
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "WF",
+    "label": "Wallis and Futuna",
+    "flag": "🇼🇫",
+    "latlng": [
+      -13.3,
+      -176.2
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "WS",
+    "label": "Samoa",
+    "flag": "🇼🇸",
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "region": "Oceania",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "YE",
+    "label": "Yemen",
+    "flag": "🇾🇪",
+    "latlng": [
+      15,
+      48
+    ],
+    "region": "Asia",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ZA",
+    "label": "South Africa",
+    "flag": "🇿🇦",
+    "latlng": [
+      -29,
+      24
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ZM",
+    "label": "Zambia",
+    "flag": "🇿🇲",
+    "latlng": [
+      -15,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  },
+  {
+    "value": "ZW",
+    "label": "Zimbabwe",
+    "flag": "🇿🇼",
+    "latlng": [
+      -20,
+      30
+    ],
+    "region": "Africa",
+    "regions": [],
+    "regionCodes": []
+  }
+]
